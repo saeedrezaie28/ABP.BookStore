@@ -1,0 +1,31 @@
+{
+  "Culture": "fa",
+  "Texts": {
+    "Menu:Home": "خانه",
+    "Welcome": "خوش آمدید",
+    "LongWelcomeMessage": "یالان دنیا . یالاندی مرحمتی.",
+    "Menu:BookStore": "فروشگاه کتاب",
+    "Menu:Books": "کتاب ها",
+    "Actions": "عملیات",
+    "Close": "بستن",
+    "Delete": "حذف",
+    "Edit": "ویرایش",
+    "PublishDate": "تاریخ انتشار",
+    "NewBook": "افزودن کتاب",
+    "Name": "نام",
+    "Type": "نوع",
+    "Price": "قیمت",
+    "CreationTime": "تاریخ ایجاد",
+    "AreYouSure": "آیا مطمئن هستید؟",
+    "AreYouSureToDelete": "از حذف این مورد مطمئن هستید؟",
+    "Enum:BookType.0": "تعریف نشده",
+    "Enum:BookType.1": "ماجرا",
+    "Enum:BookType.2": "زندگینامه",
+    "Enum:BookType.3": "خراب شده",
+    "Enum:BookType.4": "خارق العاده",
+    "Enum:BookType.5": "وحشت",
+    "Enum:BookType.6": "علوم پایه",
+    "Enum:BookType.7": "علمی تخیلی",
+    "Enum:BookType.8": "شعر"
+  }
+}
